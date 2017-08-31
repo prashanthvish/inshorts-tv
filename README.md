@@ -2,6 +2,8 @@
 
 An Unoffical Inshorts Terminal viewer and its compatible with most terminal emulators on Linux and OS X.
 <br />
+<br />
+<br />
 ![inshorts-tv](https://i.imgur.com/8csqzpS.png)
 
 ## Installation
