@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 "use strict";
 var request = require('request');
 var cheerio = require('cheerio');

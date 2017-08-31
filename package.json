@@ -1,26 +1,30 @@
 {
   "name": "inshorts-tv",
-  "version": "1.0.0",
+  "version": "1.0.5",
   "description": "an unoffical inshorts terminal viewer to read all the latest indian news on terminal",
   "scripts": {
     "test": "👀"
   },
   "bin": {
-    "inshorts-tv": "./src/bin/index.js"
+    "inshorts-tv": "src/bin/index.js"
   },
-   "engines": {
+  "engines": {
     "node": ">=0.10.0"
   },
   "files": [
-    "./src/bin/index.js"
+    "src/bin/index.js"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/PrashanthVish/inshorts-tv.git"
+  },
   "keywords": [
     "cli-app",
     "cli",
     "inshorts",
     "inshorts-tv"
   ],
-  "author":{
+  "author": {
     "name": "prashanth vish",
     "email": "prashanth.vish@outlook.com",
     "url": "https://prashanthvish.github.io"
