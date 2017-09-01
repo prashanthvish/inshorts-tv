@@ -1,6 +1,6 @@
 # inshorts-tv 
 
-An Unoffical Inshorts Terminal viewer and its compatible with most terminal emulators on Linux and OS X.
+An Unoffical Inshorts Terminal viewer and its compatible with most terminal emulators on Linux, Android and OS X.
 <br />
 <br />
 ![inshorts-tv](https://i.imgur.com/8csqzpS.png)
@@ -20,7 +20,8 @@ inshorts-tv
 ```
 
 Press `c` for available categories 
-Press `e` to exit 
+
+Press `q` to exit 
 
 <br />
 
